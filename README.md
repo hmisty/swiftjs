@@ -13,6 +13,6 @@ Something relevant and interesting:
  [1]: https://github.com/kripken/emscripten
  [2]: https://github.com/clojure/clojurescript
 
-I got the idea tonight. You are here now because we share the same ideas. Drop me an email and tell me what you are thinking about it: evanliuchina (AT) gmail (DOT) com.
+I got the idea tonight. You are here now so we may share the same ideas. Drop me an email and tell me what you are thinking about it: evanliuchina (AT) gmail (DOT) com.
 
 Coming soon... :)
